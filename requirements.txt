@@ -1,0 +1,6 @@
+django
+psycopg2-binary
+aiogram
+python-dotenv
+asgiref
+gunicorn
